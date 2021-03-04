@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+a=float(input('this is a:'))
+b=float(input('this is b:'))
+y=3*a**b-1*2*a/b+6*(a-b)
+print(y)
